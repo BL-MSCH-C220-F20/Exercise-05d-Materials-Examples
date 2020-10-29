@@ -20,7 +20,7 @@ Mirror
  * Roughness->Roughness: 0.02
 
 Dark Wood
- * Albedo->Color: R: 206, T: 147, B: 92, A: 255
+ * Albedo->Color: R: 206, G: 147, B: 92, A: 255
  * Albedo->Texture: res://materials/texture_wood.png
  * Metallic->Metallic: 0.48
  * Roughness->Roughness: 0.28
